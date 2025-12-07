@@ -27,11 +27,6 @@ Cada carpeta representa una de las técnicas vistas en clase:
 
 Aplicar los conceptos de la programación orientada a objetos para desarrollar ejemplos que muestren de manera clara el funcionamiento de las técnicas de **abstracción**, **encapsulación**, **herencia** y **polimorfismo**.
 
-## Autor
-
-**Mercy Nogales**  
-Estudiante de la materia *Técnicas de Programación*  
-Universidad [nombre de tu universidad, si quieres agregarlo]
 
 ---
 
